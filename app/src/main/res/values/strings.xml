@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MascotasBD</string>
+    <string name="pnombre">Mascota</string>
+    <string name="plikes">0</string>
+    <string name="my_activitymain_label">Mascotas</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Facoritos</string>
+    <string name="action_contacto">Contacto</string>
+    <string name="action_acercade">Acerca de</string>
+    <string name="hint_nombre_completo">Nombre Completo</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_Mensaje">Mensaje</string>
+    <string name="btnEnviarComentario">Enviar Comentario</string>
+    <string name="lbFormuladrio">Formulario</string>
+    <string name="nombre_desarrollador">German Echaiz Espinoza</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="pais">Nacionalidad</string>
+    <string name="nombre_pais">Peruano</string>
+    <string name="profesion">Profesión</string>
+    <string name="nombre_Profesion">Ingeniero Electrónico</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mascota">Mascota</string>
+
+</resources>
